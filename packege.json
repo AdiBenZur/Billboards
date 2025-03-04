@@ -1,0 +1,10 @@
+{
+    "name": "billboards",
+    "version": "1.0.0",
+    "description": "aims to help advertisers visualize billboards",
+    "main": "server.js",
+    "dependencies": {},
+    "scripts": {
+        "start": "node server.js"
+    }
+}
